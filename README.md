@@ -1,2 +1,4 @@
 # hello-world
-starting programming cs50
+
+hello comunity,
+ I'm  Stefano and I'm looking forward to lern 
